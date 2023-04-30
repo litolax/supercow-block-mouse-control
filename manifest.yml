@@ -1,0 +1,6 @@
+id: block-mouse-control
+title: Блокировка управления мышью
+author: json
+version: 0.0.1
+lua-script: main.lua
+sdk-version: 2.0.0-beta.15
